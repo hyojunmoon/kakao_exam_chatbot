@@ -21,7 +21,7 @@ column B : Answer
 <br />
 After that, go to the main folder where git folder is placed and type
 
-> python manage.py runserver 0.0.0.0:port_number
+<pre><code> python manage.py runserver 0.0.0.0:port_number </code></pre>
 <br />
 
 __port_number is needed to be changed__
