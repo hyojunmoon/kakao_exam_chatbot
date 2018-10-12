@@ -1,8 +1,8 @@
 Kakaotalk chatbot for preparing examine
 =======================================
-<img width="500" height="800">
-![Alt text](./screenshot.png)
-</img>
+
+<img src="screenshot.png" alt="drawing" width="500"/>
+
 It makes a question until you answer all questions.
 <br />
 If you know the answer, type "ㅇ" else anything
