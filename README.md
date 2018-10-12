@@ -1,8 +1,8 @@
 Kakaotalk chatbot for preparing examine
 =======================================
-
+<img width="500" height="800">
 ![Alt text](./screenshot.png)
-
+</img>
 It makes a question until you answer all questions.
 <br />
 If you know the answer, type "ㅇ" else anything
@@ -14,10 +14,9 @@ Put your exam data as an excel type into data folder
 <br />
 **Following is the format you need to keep**
 
-> column A : Question
+column A : Question
 <br />
-
-> column B : Answer
+column B : Answer
 
 <br />
 After that, go to the main folder where git folder is placed and type
